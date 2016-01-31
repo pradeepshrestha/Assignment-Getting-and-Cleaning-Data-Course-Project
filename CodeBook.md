@@ -1,4 +1,4 @@
--Code in yhe run_analysis.R does the following things
+-Code in the run_analysis.R does the following things
 
 1.Merges the test and train dataset into one data set and stores in the variable merged_data
 
