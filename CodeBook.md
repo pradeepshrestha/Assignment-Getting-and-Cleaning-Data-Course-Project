@@ -8,4 +8,4 @@
 
 4.Names the columns and removes specail characters like -,_,(), etc
 
-5. Creates average of each variable for each activity and each subject and stores in the variable tidy_data
+5.Creates average of each variable for each activity and each subject and stores in the variable tidy_data
